@@ -21,5 +21,6 @@ function multiply(a, b){
     + BSU, FAMCS
 * **Courses:**
     + [RS School(in process...)](https://rs.school/)
-## **English**
-* **B1**
+## **Languages**
+* **Russian** - native speaker.
+* **English** - B1
